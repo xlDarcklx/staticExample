@@ -1,6 +1,6 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack
-  name: Puppy_IC
+  name: Puppy_IC_xlDarcklx_001
   memory: 56M
-  random-route: true
+  
